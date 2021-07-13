@@ -1,4 +1,4 @@
-# New Bug 
+# New Bug [fixed - see `build.rs`]
 Can't transpile `actix-web` VIA `cargo build --release --target=x86_64-unknown-linux-musl`
 ```
 ➜  actix-web-bug-2020-7-13 git:(main) ./build.sh
